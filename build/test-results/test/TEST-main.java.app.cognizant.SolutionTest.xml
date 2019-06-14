@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="main.java.app.cognizant.SolutionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-06-14T04:20:58" hostname="Jesses-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="findCharacterRepeats_asdf" classname="main.java.app.cognizant.SolutionTest" time="0.001"/>
+  <testcase name="findCharacterRepeats_shouldReturnAStringWithCountGivenAStringWithTwoSetsOfRepeatingCharacters" classname="main.java.app.cognizant.SolutionTest" time="0.0"/>
+  <testcase name="findCharacterRepeats_shouldReturnAStringWithCountGivenAStringWithOnlyOneRepeatingCharacter" classname="main.java.app.cognizant.SolutionTest" time="0.0"/>
+  <testcase name="findCharacterRepeats_shouldReturnAStringWithCountGivenAStringWithMultiplesSetsOfRepeatingWithDifferentSizeSetsOfTheSameRepeatingSet" classname="main.java.app.cognizant.SolutionTest" time="0.001"/>
+  <testcase name="findCharacterRepeats_shouldReturnAStringWithCountGivenASingleCharacterString" classname="main.java.app.cognizant.SolutionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
